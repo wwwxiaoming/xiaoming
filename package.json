@@ -1,7 +1,7 @@
 {
   "name": "xiaoming",
   "version": "1.0.0",
-  "description": "",
+  "description": "egg 开发脚手架",
   "private": true,
   "egg": {
     "declarations": true
